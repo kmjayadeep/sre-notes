@@ -30,6 +30,9 @@ role (in Kubernetes)
   * commmon attack surfaces
   * best practices for server security
   * firewall
+  * vpn
+  * ssl
+  * ssh
 * Kubernetes
   * OPA
   * ELK, EFK stack
