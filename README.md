@@ -20,6 +20,7 @@ role (in Kubernetes)
   * ip subnetting
   * osi layer
   * netcat, tcpdump
+  * common ports
 * Unix and OS level stuff
   * common tools like grep, awk etc
   * disk utilities like lsblk, fdisk
@@ -51,3 +52,19 @@ role (in Kubernetes)
   * python scripting
   * ui automation
   * cronjobs
+* Monitoring and Logging
+  * Prometheus and alert manager
+  * tools to monitor system uptime
+  * elasticsearch & kibana querying
+  * Loki & Grafana
+  * Thanos
+  * prometheus scalable setup
+  * federated prometheus
+  * log aggregation
+* SRE terms
+  * sli, slo, sla
+  * error budget
+* Infrastructure
+  * terraform
+  * pulumi
+  * terraform in pipeline
