@@ -77,6 +77,7 @@ role (in Kubernetes)
 * jaeger.md - tracing, jaeger and opentracing
 * opentelemetry.md - opentelemetry spec basic info
 * Monitoring - Monitoring basics
+* Networking - protocols, basic networking stuff
 
 ## Links to check out
 
