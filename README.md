@@ -71,3 +71,15 @@ role (in Kubernetes)
   * terraform
   * pulumi
   * terraform in pipeline
+
+## Notes taken
+
+* jaeger.md - tracing, jaeger and opentracing
+* opentelemetry.md - opentelemetry spec basic info
+* Monitoring - Monitoring basics
+
+## Links to check out
+
+* <https://cloud.google.com/blog/products/devops-sre/how-to-start-and-assess-your-sre-journey>
+* <https://linkedin.github.io/school-of-sre/>
+* <https://redhatspain.com/sre/>
