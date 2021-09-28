@@ -29,3 +29,7 @@
   - ip is anded with genmask and compared with destination on the routing table
   - 0000 if nothing matches
   - no gateway involved in local network. kernel finds mac and forwards directly
+* linux socket
+  - allows communication between different processes in the same or different machine
+  - can use sys calls to interact with sockets
+  - tcp and udp sockets

@@ -9,6 +9,7 @@ role (in Kubernetes)
 
 - [ ] Read SRE book by google
 - [ ] Learn security best practices for kubernetes
+- [ ] complete school of sre guide
 
 
 ## Things to learn
@@ -41,6 +42,7 @@ role (in Kubernetes)
   * attack surfaces
   * reverse proxy, ingress gateway
   * cluster security
+  * sealed secrets
 * Microservices
   * 12 factor principles
   * service mesh
@@ -76,8 +78,9 @@ role (in Kubernetes)
 
 * jaeger.md - tracing, jaeger and opentracing
 * opentelemetry.md - opentelemetry spec basic info
-* Monitoring - Monitoring basics
-* Networking - protocols, basic networking stuff
+* monitoring.md - Monitoring basics
+* networking.md - protocols, basic networking stuff
+* db.md - database concepts
 
 ## Links to check out
 
