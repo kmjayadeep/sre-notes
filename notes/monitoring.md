@@ -28,3 +28,8 @@ metric types
 * timer
 
 have runbook for alerts
+
+thanos
+- open source HA prometheus setup with long term storage
+- adds sidecar to promethus servers
+- sidecar can push data to storge backends
