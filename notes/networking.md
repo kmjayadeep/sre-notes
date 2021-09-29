@@ -33,3 +33,13 @@
   - allows communication between different processes in the same or different machine
   - can use sys calls to interact with sockets
   - tcp and udp sockets
+
+## OSI layer
+
+* physical - physical media
+* data link - encapsulating to frames
+* network - routing
+* transport - connection reliability, congestion control etc
+* session
+* presentation
+* application

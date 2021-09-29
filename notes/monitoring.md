@@ -16,4 +16,15 @@ Ways to monitor
   one of the responsibilities of an SRE include responding to alerts and
   making sure that it won't happen again
 
+* ss command -> socket statistics
+* top/ps -> processes
+* df -> disk usage stats
+* tcpdump -> capture network traffic
 
+
+metric types
+* guage
+* counter
+* timer
+
+have runbook for alerts
