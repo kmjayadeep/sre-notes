@@ -81,6 +81,8 @@ role (in Kubernetes)
 * monitoring.md - Monitoring basics
 * networking.md - protocols, basic networking stuff
 * db.md - database concepts
+* systemdesign.md - system design concepts, scaling etc
+* elk.md - elk stack
 
 ## Links to check out
 
